@@ -1,2 +1,0 @@
-# TRISTAIN
-*is secretly black*

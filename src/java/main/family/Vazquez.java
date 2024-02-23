@@ -1,3 +1,5 @@
+package family;
+
 import java.lang.Math;
 
 public class Vazquez {

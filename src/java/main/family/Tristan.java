@@ -1,8 +1,10 @@
-public class Miles extends Vazquez {
+package family;
+
+public class Tristan extends Vazquez {
 	private String firstName;
 
-	public Miles() {
-		firstName = "miles";
+	public Tristan(){
+		firstName = "tristan";
 	}
 
 	public String getFirstName() {
@@ -17,8 +19,7 @@ public class Miles extends Vazquez {
 		return getIntelligence();
 	}
 
-	public void holdThis(){
-		System.out.println("miles says can you hold this for me");
+	public void bite(){
+		System.out.println("Tristan says *bites*");
 	}
-	
 }
