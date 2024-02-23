@@ -2,6 +2,8 @@ public class Tristan extends Vazquez {
 	private String firstName;
 	private double stupidityLevel;
 
+	private String[] cussWords = ["FUCK", "SHIT", "COCK", "BALLS", "ASS", "PISS", "RETARD"];
+
 	public Tristan(){
 		firstName = "tristan";
 		stupidityLevel = 0.0;
@@ -30,6 +32,9 @@ public class Tristan extends Vazquez {
 	public void hello(){
 		System.out.println(firstName + " says: hi my name is " + firstName + " and i am part of the vazquez class");
 	}
+
+	public void cussIncessantly(){
+		System.out.println(cussWords);
 
 	public void argue(Tristan otherTristan){
 		System.out.println(firstName +" says *SHUT UP " + otherTristan.getFirstName() + "*");
