@@ -14,5 +14,7 @@ public class TristanRunner{
 		System.out.println(m.getFirstName() + " " + m.getSurname());
 		System.out.println("My intelligence is: " + m.getIntelligence());
 		m.holdThis();
+
+		System.out.println("FUCKFUKFKKUCKUFKUCFKUCFKUCFKUCFKUCUKCFKUCFUKCUKCFUKFUKCUFKCUFKCUKFKUCFKUCFCKUFFKUCCFKUCKUCFKUCFKUCFKUCUKCFUCFKCFUKCFKUCFUKCF");
 	}
 }
